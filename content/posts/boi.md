@@ -14,10 +14,10 @@ cover:
     relative: false
     hidden: true
     hiddenInList: false
-    hiddenInSingle: false
+    hiddenInSingle: true
 ---
 
-# Introduction
+# Some thoughts on the beginning of infinity
 
 The Beginning of Infinity presents David Deutsch's ambitious argument that explanations are the key to solving all problems not forbidden by the laws of physics. Unlike his previous work 'The Fabric of Reality', Deutsch here offers a unifying theory connecting epistemology, aesthetics, morality, justice, science, and biology. The book is widely celebrated in rationalist and tech communities as a grand philosophical synthesis that could guide humanity toward unlimited progress.
 
