@@ -10,7 +10,7 @@ cover:
     image: "/images/threeboys.avif"
     avif: "/images/threeboys.avif"
     alt: "BOIs"
-    caption: "Hardware design journey"
+    caption: "Three BOIs"
     relative: false
     hidden: true
     hiddenInList: false
