@@ -7,10 +7,10 @@ categories: ["Essays"]
 ShowToc: true
 TocOpen: true
 cover:
-    image: "/images/threeboys.avif"
-    avif: "/images/threeboys.avif"
+    image: "/images/twobois.avif"
+    avif: "/images/twobois.avif"
     alt: "BOIs"
-    caption: "Three BOIs"
+    caption: "Two BOIs"
     relative: false
     hidden: true
     hiddenInList: false
@@ -120,7 +120,9 @@ Chapter 9: “And the only moral values that permit sustained progress are the o
 
 Chapter 13: “Arrow’s theorem applies not only to collective decision-making but also to individuals, as follows.”
 
+# Appendix 2: citations
 
+1. Image source: https://earthlymission.com/the-famous-easter-island-head-statues-actually-have-bodies/
 
 
 
