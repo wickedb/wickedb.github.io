@@ -55,7 +55,7 @@ This is one of their main differences. Deutsch treats all progress as a chain of
 
 The people (or institutions) who benefit from a solution are often different from those who bear the costs of the new problems the solution creates. Deutsch glosses over the crucial moral dimension: who lives the solution, and who lives with its consequences? In complex adaptive systems, the question isn’t whether the problems are soluble, but whether the act of solving them creates more fragility, and how the costs and benefits are distributed across time and populations. Deutsch's optimistic rationalism has no framework for recognizing when intervention itself is the problem.
 
-## Unpacking Deutsch’s ideas on political progress and social theory
+## Deutsch and his social theories
 
 Consider how this plays out in Deutsch's treatment of political progress. He frames political progress as fundamentally developing better explanations that can withstand rational criticism, similar to how science advances. In chapter 13, Deutsch lists “..that slavery is an abomination, or that women should be free to go out to work, or that autopsies should be legal, or that promotion in the armed forces should not depend on skin colour” in the context of “convergence in the broad consensus over time is made possible by the fact that all concerned are gradually eliminating errors in their positions and converging on objective truths”. Yet this epistemological framework is misapplied to political change. All the changes he listed required sustained political struggle, activism, legal challenges, and institutional pressure - often against opponents who understood the moral arguments perfectly well but had material interests in maintaining the status quo. 
 
