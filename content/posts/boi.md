@@ -123,7 +123,7 @@ Thus, Deutsch's attractor model contributes to the lack of dialectic around The 
 
 # Conclusion
 
-Deutsch's book gets its name from an Asimov book called The End of Eternity, which is about the problems arising from the editing of history with the primary goal of maximizing the safety of humanity. But in my view, it is the manipulation of history itself (regardless of the purpose) that collapses the future into one. The future opens up infinite possibilities only when you stop manipulating history (destroy the kettles).
+Deutsch's book gets its name from an Asimov book called The End of Eternity, which is about the problems arising from the editing of history with the primary goal of maximizing the safety of humanity. But in my view, it is the manipulation of history itself, regardless of the purpose, that collapses the future into one. The future opens up infinite possibilities only when you stop manipulating history (destroy the kettles).
 
 The path forward requires recognizing that human creativity and problem-solving capacity are far more diverse and unpredictable than any single framework can contain. We need explanatory frameworks that can account for emergence, non-linearity, and genuine cultural diversity without collapsing into mechanistic reductionism. 
 
