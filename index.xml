@@ -153,9 +153,10 @@ This paper analyzes Doofenshmirtz as a social figure in the 21st century. It ref
 &lt;div class="experience-description">
 &lt;ul>
 &lt;li>Secure boot refactoring and feature addition&lt;/li>
-&lt;li>SoC integration of Opentitan OTBN&lt;/li>
+&lt;li>SoC integration of a bignum accelerator&lt;/li>
 &lt;li>Architecture and implementation of Worldguard (RISC-V TEE)&lt;/li>
-&lt;li>Tapeouts: InSoc-1 secure boot modes&lt;/li>
+&lt;li>Some work on cache-controllers and DMA&lt;/li>
+&lt;li>Tapeouts: InSoc-2 secure boot modes&lt;/li>
 &lt;/ul>
 &lt;div class="skills-list">
 &lt;span class="skill-tag">RTL Design&lt;/span>
