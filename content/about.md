@@ -26,9 +26,10 @@ summary: "About me"
     <div class="experience-description">
         <ul>
             <li>Secure boot refactoring and feature addition</li>
-            <li>SoC integration of Opentitan OTBN</li>
+            <li>SoC integration of a bignum accelerator</li>
             <li>Architecture and implementation of Worldguard (RISC-V TEE)</li>
-            <li>Tapeouts: InSoc-1 secure boot modes</li>
+            <li>Some work on cache-controllers and DMA</li>
+            <li>Tapeouts: InSoc-2 secure boot modes</li>
         </ul>
         <div class="skills-list">
             <span class="skill-tag">RTL Design</span>
