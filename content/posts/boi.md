@@ -1,7 +1,7 @@
 ---
 title: "Some thoughts on the beginning of infinity"
 date: 2025-08-09T16:30:00+05:30
-draft: false
+draft: true
 tags: ["critique"]
 categories: ["Essays"]
 ShowToc: true
