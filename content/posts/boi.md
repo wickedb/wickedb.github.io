@@ -2,7 +2,7 @@
 title: "Some thoughts on the beginning of infinity"
 date: 2025-08-09T16:30:00+05:30
 draft: true
-tags: ["critique"]
+tags: ["analysis"]
 categories: ["Essays"]
 ShowToc: true
 TocOpen: true
@@ -12,12 +12,16 @@ cover:
     alt: "BOIs"
     caption: "Two BOIs"
     relative: false
-    hidden: true
+    hidden: false
     hiddenInList: false
     hiddenInSingle: true
 ---
 
 # Some thoughts on the beginning of infinity
+
+> Notes from october 2025: I have had 4/5 people tell me this essay is dense and needs more Taleb quotes/context to be readable by a general audience. I have also had a Deutsch fan tell me I need to include more direct quotes from him. So this post is due a re-write - some day (Taleb is hard to quote directly). 
+
+> TLDR: Human endeavours requiring collective effort often organize into social/political/economic/religious institutions. They resemble an ecosystem more than they resemble a car, which would just follow the laws of physics. Deutsch seems to skip the institution as an entity, over-focusing on individual problem solving, as if it neatly scales up to institutional problem solving. Taleb has much better ideas about institutions and scale. Hopefully I will rewrite this essay soon. 
 
 The Beginning of Infinity presents David Deutsch's ambitious argument that explanations are the key to solving all problems not forbidden by the laws of physics. Unlike his previous work 'The Fabric of Reality', Deutsch here offers a unifying theory connecting epistemology, aesthetics, morality, justice, science, and biology. The book is widely celebrated in rationalist and tech communities as a grand philosophical synthesis that could guide humanity toward unlimited progress.
 
