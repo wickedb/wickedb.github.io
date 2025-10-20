@@ -1,7 +1,7 @@
 ---
 title: "Some thoughts on the beginning of infinity"
 date: 2025-08-09T16:30:00+05:30
-draft: true
+draft: false
 tags: ["analysis"]
 categories: ["Essays"]
 ShowToc: true
@@ -12,7 +12,7 @@ cover:
     alt: "BOIs"
     caption: "Two BOIs"
     relative: false
-    hidden: false
+    hidden: true
     hiddenInList: false
     hiddenInSingle: true
 ---
