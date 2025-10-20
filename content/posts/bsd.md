@@ -1,5 +1,5 @@
 ---
-title: "Bungo stray dogs and morality"
+title: "Bungo Stray Dogs and morality"
 date: 2025-10-20T08:30:00+05:30
 draft: false
 showTitle: false
@@ -17,7 +17,7 @@ cover:
     hiddenInSingle: false
 ---
 
-# Bungo Stray Dogs
+# Bungo Stray Dogs and morality
 
 BSD is an anime/manga by Kafka Asagiri with all of its characters named after a real-life author (much like the Author's pseudonym Kafka), and their 'special-abilities' named after a seminal work by the author. The show follows a few 'teams', so far, a detective agency, a mafia, an english agency, a military agency, and a crime agency. This write-up is supposed to put forward the theory that morality, in BSD, is negotiable, as opposed to a rigid individual characteristic. This write up contains spoilers and assumes familiarity with the series.
 
@@ -37,3 +37,10 @@ All human beings are social, amenable, gullible, influential, and influencible. 
 All of the villains (before Fyodor) have been able to listen at some point - Mori helps Fukuzawa against Fitzgerald, Fitzgerald helps the agency against the Angels of decay, Fukuchi can hold negotiations with Fukuzawa, all of the Hunting Dogs members are influenced in some way, Sigma is able to switch loyalties, Bram Stoker can sacrifice himself for a little girl, etc. Moreover, what makes Fyodor the ultimate villain, is his inflexibility to negotiation. 
 
 The Mersault scenes where Dazai and Fyodor are cell neighbours can be seen as Dazai's attempt to negotiate with him. BSD doesn't characterize its villains by their kill-count, goodness, or strength. Villainy in BSD is to be unamenable to negotiation. To not even hear an appeal. If morality, instead of being an individual trait, is a communal responsibility - then we have no moral high grounds - only culpability - in the face of immorality. 
+
+
+## References: 
+
+1. BSD analysis: https://www.youtube.com/@Cashexists
+2. Author connections: https://sites.google.com/view/bsd-bibliophileonlinelibrary/online-library/author-connections
+3. BSD iceberg: https://youtu.be/0Gpz4nCPa-Y
